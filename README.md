@@ -34,7 +34,22 @@ Xx-xxxx-xxxx
 
 ---
 
+### Questions:
+1. Which country has the highest and lowest total military expenditure so far?
+2. Which country has the highest and loweset average military expenditure so far?
+3.  Which type of countries has the highest expenditure?
+4. which year had the highest global military spending?
+6. Which country has had the most increase in spending in the last 10 years?
+7. What is the trend of global spending across decades?
+8. What is the total of top 5 spenders as a % of global spend?
+
+--- 
+
 ### Tools and Technologies:
+1. Google Sheets (for storing the Original and Cleaned Dataset and for performing Data Cleaning Process)
+2. Google Docx (For Creating Scope of Work document and Analytical Report).
+3. Tabulae (For creating Visualizations).
+4. GitHub (For Doucmenting the entire project in this README.md file, documenting the growth of the project day by day by creating and managing Changelog.md file and for Uploading all the Deliverables).
 
 ---
 
@@ -52,6 +67,7 @@ Xx-xxxx-xxxx
 
 ### EDA Summary:
 
+
 ---
 
 ### Visualizations:
@@ -59,9 +75,9 @@ Xx-xxxx-xxxx
 ---
 
 ### Limitations:
-- Dataset was outdated
-- All the countries were not included
-- It had a lot of missing values
+-Dataset was outdated
+-All the countries were not included
+-It had a lot of missing values
 
 ---
 
