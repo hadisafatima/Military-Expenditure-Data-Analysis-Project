@@ -11,3 +11,8 @@
 -Handled the remaining Missing value cells.
 -Dropped the unnecessary custom and predifned columns.
 -No Duplicates Found.
+
+
+### June 28, 2025
+-Performed EDA.
+-Drafted Questions to Answer via Visualizations.
