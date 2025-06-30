@@ -29,8 +29,8 @@ Xx-xxxx-xxxx
 ---
 
 ### Dataset Info:
--The cleaned dataset has 109 rows and 59 columns.
--This Dataset has 4 types Geographic Locations.
+- The cleaned dataset has 109 rows and 59 columns.
+- This Dataset has 4 types Geographic Locations.
 
 ---
 
@@ -75,9 +75,9 @@ Xx-xxxx-xxxx
 ---
 
 ### Limitations:
--Dataset was outdated
--All the countries were not included
--It had a lot of missing values
+- Dataset was outdated
+- All the countries were not included
+- It had a lot of missing values
 
 ---
 
