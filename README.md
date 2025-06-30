@@ -10,8 +10,13 @@ Hadisa Fatima Syed (Role: Data Analysis Enthusiast and BE Software Student)
 
 ---
 
-### Project Start Date:                                        ### Project End Date:
-26th-June-2025                                                 Xx-xxxx-xxxx
+### Project Start Date:                                        
+26th-June-2025
+
+---
+
+### Project End Date:
+xx-xx-xxxx
 
 ---
 
@@ -61,7 +66,6 @@ Hadisa Fatima Syed (Role: Data Analysis Enthusiast and BE Software Student)
 ---
 
 ### EDA Summary:
-
 
 ---
 
