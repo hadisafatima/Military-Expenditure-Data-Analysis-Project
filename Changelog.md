@@ -23,3 +23,4 @@
 ### June 30, 2025
 - Decided to re-perform EDA Process, because the EDA results were skewing, I figured this and understood that EDA needs to be preformed on the copy of Original Dataset so we can understand the patterns, Outliers and potential anomalies in the dataset.
 - Starting EDA Process again, this time on the copy of the Original Dataset.
+- Calculated Min, Max, Median, Average and Sum for each Country and Year.
