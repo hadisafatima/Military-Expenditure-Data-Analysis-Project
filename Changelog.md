@@ -15,4 +15,7 @@
 
 ### June 28, 2025
 - Performed EDA.
-- Drafted Questions to Answer via Visualizations.
+- Drafted Objectives/Questions to achieve/answer.
+  
+### June 29, 2025
+- Filled out remaning values of EDA.
