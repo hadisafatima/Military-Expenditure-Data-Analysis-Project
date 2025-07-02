@@ -29,4 +29,4 @@
 - Filled out all the remaining values of EDAs.
 
 ### July 02, 2025
-- Created Necessary Visuals based on EDAs calculated.
+- Created Necessary Visuals based on calculated EDAs.
