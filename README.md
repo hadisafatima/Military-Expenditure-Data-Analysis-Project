@@ -68,10 +68,18 @@ xx-xx-xxxx
 ### EDA Process:
 1. Calculated Min, Max, Average, Median and Sum Countrywise and year wise.
 2. Created Necessary Visualizations.
+3. Analyzed the Results from Visualizations.
 
 ---
 
 ### EDA Summary:
+1. 'High Income' has the highest Total Expenditure.
+2. 'Mauritius' has the lowest Total Expenditure.
+3. In the year 2015, Total Military Expenditure by year was the highest.
+4. In the year 1960, Total Military Expenditure by year was the lowest.
+5. In the year 2016, Average Military Expenditure was the highest.
+6. By type, 'Regions Clubbed Economically' was the highest, whereas, 'CAN' was the lowest.
+7. Within Top 10 Military Spenders, 'Regions clubbed Economically' has highest Total and 'CAN' is not part of Top 10.
 
 ---
 
