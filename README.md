@@ -67,6 +67,7 @@ xx-xx-xxxx
 
 ### EDA Process:
 1. Calculated Min, Max, Average, Median and Sum Countrywise and year wise.
+2. Created Necessary Visualizations.
 
 ---
 
