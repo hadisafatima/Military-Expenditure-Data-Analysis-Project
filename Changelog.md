@@ -30,3 +30,6 @@
 
 ### July 02, 2025
 - Created Necessary Visuals based on calculated EDAs.
+
+### July 03, 2025 - July 06, 2025
+- Break, because of the month of Muharram
