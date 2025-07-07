@@ -33,3 +33,7 @@
 
 ### July 03, 2025 - July 06, 2025
 - Break, because of the month of Muharram
+
+### July 07, 2025
+- Figured that for Visualizations in Tabulae I can't have years as different columns.
+- Decided to transpose the dataset so I can have all years in a single Column.
