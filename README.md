@@ -35,11 +35,11 @@ xx-xx-xxxx
 ---
 
 ### Questions:
-1. Which country has the highest and lowest total military expenditure so far?
-2. Which country has the highest and loweset average military expenditure so far?
-3.  Which type of countries has the highest expenditure?
-4. which year had the highest global military spending?
-6. Which country has had the most increase in spending in the last 10 years?
+1. Which country/Region/Place has the highest and lowest total military expenditure so far?       D O N E
+2. Which country/Region/Place has the highest and loweset average military expenditure so far?
+3. Which type of countries has the highest expenditure?                                           D O N E
+4. which year had the highest global military spending?                                           D O N E    
+6. Which country has had the most increase in spending in the last 10 years?                      N E E D    T O    B E    I N    D I F F E R E N T    F O R M A T
 7. What is the trend of global spending across decades?
 8. What is the total of top 5 spenders as a % of global spend?
 
