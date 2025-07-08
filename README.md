@@ -62,6 +62,7 @@ xx-xx-xxxx
 7. After the all average values were placed, all the values in the Missing value cells % column became '0.005', therefore tht column along with Average Expenditure column was dropped.
 8. The Dataset had no Duplicated Values.
 9. Dropping 'Indicator Name' Column as it is just reflects the currency type which is same for all the countries, i.e USD, and this is reflected from the a specific Expenditure value of the country.
+10. Converting the Cleaned dataset into Long Format from Wide Format.
 
 ---
 
