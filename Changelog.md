@@ -34,6 +34,10 @@
 ### July 03, 2025 - July 06, 2025
 - Break, because of the month of Muharram
 
-### July 07, 2025
+### July 07, 2025 - July 08, 2025
 - Figured that for Visualizations in Tabulae I can't have years as different columns.
 - Decided to transpose the dataset so I can have all years in a single Column.
+
+### July 08, 2025
+- Tried to figure out formula for converting dataset from wide to long format.
+- Couldn't find out any formual or easier techniques so created a long format a dataset by using data ranges and copy and pasting from cleaned and complete dataset.
