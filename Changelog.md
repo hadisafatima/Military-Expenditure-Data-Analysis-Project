@@ -41,3 +41,9 @@
 ### July 08, 2025
 - Tried to figure out formula for converting dataset from wide to long format.
 - Couldn't find out any formual or easier techniques so created a long format a dataset by using data ranges and copy and pasting from cleaned and complete dataset.
+
+### July 09, 2025 - July 10, 2025
+- Took a Break
+
+### July 11, 2025
+- Completed the conversion of Wide Format Dataset to Long Format.
