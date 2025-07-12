@@ -95,14 +95,13 @@ The goal of this project is to analyze global military spending trends over time
 ![Highest Avg Spend by Country](Visualizations/Highest_Avg_Spend_by_country.png)
 
 2. Last 10 years' spend by Country
-![Last 10 years spend by country](Visualizations/Last_10_years_spend.png)
+![Last 10 years spend by country](Visualizations/last_10_years_spend.png)
 
 3. Spent over Decades
 ![Spend over Decades](Visualizations/spend_over_decades.png)
 
 4. Top 5 Countries as % of Global Spent
 ![Top 5 countries by % of global spent](Visualizations/Top_5_as_%_of_global_spend.png)
-
 
 ---
 
