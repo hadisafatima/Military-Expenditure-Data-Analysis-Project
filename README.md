@@ -11,12 +11,12 @@ Hadisa Fatima Syed (Role: Data Analysis Enthusiast and BE Software Student)
 ---
 
 ### Project Start Date:                                        
-26th-June-2025
+26 June, 2025
 
 ---
 
 ### Project End Date:
-xx-xx-xxxx
+12 July, 2025
 
 ---
 
