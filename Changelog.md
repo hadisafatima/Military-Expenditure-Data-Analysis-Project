@@ -47,3 +47,7 @@
 
 ### July 11, 2025
 - Completed the conversion of Wide Format Dataset to Long Format.
+
+### July 12, 2025
+- Answered remaining questions.
+- Created the Visualizations in Tabulae.
