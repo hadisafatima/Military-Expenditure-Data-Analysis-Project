@@ -21,10 +21,14 @@ xx-xx-xxxx
 ---
 
 ### Project Overview:
+This project presents a comprehensive analysis of global military expenditure from 1960 to 2018, using data from various countries and regions. The dataset includes annual military spending figures in current USD, allowing for a historical exploration of defense investments over nearly six decades.
+
+The primary objective is to uncover trends, patterns, and insights about how different countries and economic regions have allocated military budgets, highlighting the evolution of global defense priorities. The project involves thorough Exploratory Data Analysis (EDA), including statistical summaries, outlier detection, and missing value treatment, followed by visual analytics using Tableau/Tabulae to support key findings.
 
 ---
 
 ### Objective/Problem Statement:
+The goal of this project is to analyze global military spending trends over time using historical expenditure data (1960–2018). The analysis aims to identify top-spending countries, regional patterns, year-over-year growth, and budget priorities.
 
 ---
 
@@ -37,11 +41,11 @@ xx-xx-xxxx
 ---
 
 ### Questions:
-1. Which country/Region/Place has the highest and lowest total military expenditure so far?       D O N E
-2. Which country/Region/Place has the highest and loweset average military expenditure so far?
-3. Which type of countries has the highest expenditure?                                           D O N E
-4. which year had the highest global military spending?                                           D O N E    
-6. Which country has had the most increase in spending in the last 10 years?                      N E E D    T O    B E    I N    D I F F E R E N T    F O R M A T
+1. Which country/Region/Place has the highest and lowest total military expenditure so far?
+2. Which country/Region/Place has the highest and loweset average military expenditure so far? 
+3. Which type of countries has the highest expenditure?  
+4. which year had the highest global military spending?   
+6. Which country has had the most increase in spending in the last 10 years?
 7. What is the trend of global spending across decades?
 8. What is the total of top 5 spenders as a % of global spend?
 
@@ -102,5 +106,9 @@ xx-xx-xxxx
 ---
 
 ### Key Takeaways:
+- Understand the dataset, why a column exist, what questions can be derived or answered using each column.
+- Always have time related data, years in this dataset, in rows and never in columns.
+- Understood why EDA and its corresponded Visuals are necessary.
+- Data Cleaning Techniques especially when a dataset has so many empty cells.
 
 
