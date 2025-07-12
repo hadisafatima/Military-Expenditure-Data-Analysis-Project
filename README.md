@@ -102,6 +102,11 @@ The goal of this project is to analyze global military spending trends over time
 ---
 
 ### Conclusion:
+This analysis of global military expenditure across countries and decades reveals critical patterns in defense spending. The data highlights that High-Income countries and regions clubbed economically consistently dominate global military expenditures, with countries like the United States and Arab World leading in both total and average spending.
+
+A decade-wise analysis shows a significant upward trend, especially from the 2000s onwards, reflecting growing defense budgets in response to geopolitical, economic, and technological developments. While some low-income or conflict-affected countries maintain comparatively minimal expenditures, their inclusion emphasizes the global distribution and disparity of defense priorities.
+
+Through data cleaning, exploration, and visualization using tools like Google Sheets and Tabulae, this project offers a structured and insightful overview of how military spending has evolved over time. It also demonstrates the importance of maintaining data integrity, performing thorough EDA, and crafting visual narratives that inform and engage diverse audiences — from policymakers to data enthusiasts.
 
 ---
 
@@ -110,5 +115,3 @@ The goal of this project is to analyze global military spending trends over time
 - Always have time related data, years in this dataset, in rows and never in columns.
 - Understood why EDA and its corresponded Visuals are necessary.
 - Data Cleaning Techniques especially when a dataset has so many empty cells.
-
-
