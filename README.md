@@ -29,8 +29,10 @@ xx-xx-xxxx
 ---
 
 ### Dataset Info:
-- The cleaned dataset has 109 rows and 59 columns.
+- The cleaned dataset has 109 rows and 59 columns in Wide Format.
+- The cleaned dataset has 6373 rows and 5 columns in Long Format.
 - This Dataset has 4 types Geographic Locations.
+- The Dataset is a Microsoft Excel (.xlsx) file.
 
 ---
 
