@@ -103,7 +103,6 @@ The goal of this project is to analyze global military spending trends over time
 4. Top 5 Countries as % of Global Spent
 ![Top 5 countries by % of global spent](Visualizations/Top_5_as_perct_of_global_spend.png)
 
-Tabulae Public: ![Military Expenditure Dashboard](https://public.tableau.com/app/profile/hadisa.fatima.syed/viz/MilitaryExpenditure1960-2018Analysis/MilitaryExpenditureDashboard)
 ---
 
 ### Limitations:
